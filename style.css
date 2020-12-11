@@ -1,0 +1,9 @@
+.content {
+    height: 100vh;
+    background: dimgrey;
+    display: flex;
+}
+
+.avatar {
+    margin: auto;
+}
